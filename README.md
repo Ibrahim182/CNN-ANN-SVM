@@ -1,4 +1,6 @@
 # ANN-SVM
 SVM and ANN in numberical dataset and images dataset
-
-<a href="https://www.kaggle.com/puneet6060/intel-image-classification">We could find the dataset here</a>
+<h3>Links of datasets</h3>
+<a href="https://www.kaggle.com/puneet6060/intel-image-classification">images dataset</a>
+<br>
+<a href="https://www.kaggle.com/uciml/pima-indians-diabetes-database">Numberical data set</a>
